@@ -1,4 +1,4 @@
-# Aarya Chiripal
+# Aarya
 
 Mechanical engineering student at USC Viterbi. I build open tools and data on the economics of energy hardware: what it costs to build solar and battery factories in the US, how import duties change that math, and why new factories get built or cancelled.
 
